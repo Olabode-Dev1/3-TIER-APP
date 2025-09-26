@@ -42,6 +42,6 @@ module "eks" {
   tags = {
     Environment = var.environment
     Terraform   = "true"
-    repo        = "3 TIER APP"
+    repo        = "3-TIER-APP"
   }
 }
