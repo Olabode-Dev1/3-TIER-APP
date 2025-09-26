@@ -20,7 +20,7 @@ variable "github_repositories" {
   default = [
     {
       org    = "Olabode-Dev1"
-      repo   = "3 TIER APP"
+      repo   = "3-TIER-APP"
       branch = "*"
     }
   ]
