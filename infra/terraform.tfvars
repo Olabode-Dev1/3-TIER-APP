@@ -5,7 +5,7 @@ project_name = "3 Tiers"
 github_repositories = [
   {
     org    = "Olabode-Dev1"
-    repo   = "3 TIER APP"
+    repo   = "3-TIER-APP"
     branch = "main"
   }
 ]
