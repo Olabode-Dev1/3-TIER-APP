@@ -207,6 +207,7 @@ tree .
 
 > A namespace in Kubernetes provides a mechanism to isolate groups of resources within a cluster. This allows teams to work in their own virtual cluster without worrying about resource naming conflicts.
 
+#cd into k8s and run the command below
 ```bash
 kubectl apply -f namespace.yaml
 ```
