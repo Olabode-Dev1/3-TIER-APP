@@ -283,7 +283,7 @@ echo 'postgresql://postgresadmin:YourStrongPassword123!@postgres-db.3-tier-app-e
 
 
 `secrets.yaml`
-Edit the database url to your database endpoint
+Edit the database url to your database endpoint and cors
 ```yaml
 apiVersion: v1
 kind: Secret
